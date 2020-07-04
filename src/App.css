@@ -1,0 +1,17 @@
+@import "~antd/dist/antd.css";
+.App {
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+ul {
+  list-style: none;
+  margin-left: -40px;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+h2{
+  font-size: 20px;
+}
